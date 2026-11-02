@@ -21,7 +21,7 @@ def training_params(use_gpu=False, T=0.5, dt=0.01, animal=None, multi_gait=False
         P["n_envs"] = 16 # 16
         
         if(multi_gait):
-            P["total_timesteps"] = 20*(10**6) # [20].
+            P["total_timesteps"] = 2*(10**6) # [20].
         else:
             P["total_timesteps"] = 10*(10**6)
         

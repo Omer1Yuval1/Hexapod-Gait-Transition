@@ -26,7 +26,6 @@
                 <body name="L1_tarsus" pos="0 0 0">
                 	<geom name="L1_tarsus_geom" mass="0.001" type="sphere" pos="-0.587 1.998 -0.288" size="0.01 0.01 0.01" />
                     <joint name="L1_3_joint" pos="-0.630 1.998 -0.072" axis="-1 -0.2 0" range="-1 1" ref="0" springref="0" type="hinge" frictionloss="0.1" armature="0.5" stiffness="30" damping="20" />
-					<site name="L1_tip" pos="-0.600 1.970 -0.360" size="0.01" />
                     
                     </body>
                 </body>
@@ -51,7 +50,6 @@
                 <body name="R1_tarsus" pos="0 0 0">
                 	<geom name="R1_tarsus_geom" mass="0.001" type="sphere" pos="0.587 1.998 -0.288" size="0.01 0.01 0.01" />
                     <joint name="R1_3_joint" pos="0.630 1.998 -0.072" axis="-1 0.2 0" range="-1 1" ref="0" springref="0" type="hinge" frictionloss="0.1" armature="0.5" stiffness="30" damping="20" />
-					<site name="R1_tip" pos="0.600 1.970 -0.360" size="0.01" />
                     
                     </body>
                 </body>
@@ -76,7 +74,6 @@
                 <body name="L2_tarsus" pos="0 0 0">
                 	<geom name="L2_tarsus_geom" mass="0.001" type="mesh" mesh="L2_345" friction="1 0.005 0.0001" />
                     <joint name="L2_3_joint" pos="-0.828 0.756 -0.306" axis="0.5 1 0.1" range="-10 10" ref="0" springref="0" type="hinge" frictionloss="0.1" armature="0.5" stiffness="30" damping="20" />
-					<site name="L2_tip" pos="-1.100 1.000 -0.380" size="0.01" />
                     
                     </body>
                 </body>
@@ -101,7 +98,6 @@
                 <body name="R2_tarsus" pos="0 0 0">
                 	<geom name="R2_tarsus_geom" mass="0.001" type="mesh" mesh="R2_345" friction="1 0.005 0.0001" />
                     <joint name="R2_3_joint" pos="0.828 0.756 -0.306" axis="0.5 -1 0.1" range="-10 10" ref="0" springref="0" type="hinge" frictionloss="0.1" armature="0.5" stiffness="30" damping="20" />
-					<site name="R2_tip" pos="1.100 1.000 -0.380" size="0.01" />
                     
                     </body>
                 </body>
@@ -126,7 +122,6 @@
                 <body name="L3_tarsus" pos="0 0 0">
                 	<geom name="L3_tarsus_geom" mass="0.001" type="mesh" mesh="L3_345" friction="1 0.005 0.0001" />
                     <joint name="L3_3_joint" pos="-0.720 -1.476 -0.324" axis="-1 0.3 0" range="-60 60" ref="0" springref="0" type="hinge" frictionloss="0.1" armature="0.5" stiffness="30" damping="20" />
-					<site name="L3_tip" pos="-0.800 -2.000 -0.340" size="0.01" />
                     
                     </body>
                 </body>
@@ -151,7 +146,6 @@
                 <body name="R3_tarsus" pos="0 0 0">
                 	<geom name="R3_tarsus_geom" mass="0.001" type="mesh" mesh="R3_345" friction="1 0.005 0.0001" />
                     <joint name="R3_3_joint" pos="0.720 -1.476 -0.324" axis="-1 -0.3 0" range="-60 60" ref="0" springref="0" type="hinge" frictionloss="0.1" armature="0.5" stiffness="30" damping="20" />
-					<site name="R3_tip" pos="0.800 -2.000 -0.340" size="0.01" />
                     
                     </body>
                 </body>
