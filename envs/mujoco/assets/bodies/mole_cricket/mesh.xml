@@ -1,0 +1,54 @@
+
+<mujoco model="mole_cricket_mesh">
+    
+    <mesh file="v2/head.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/thorax.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/abdomen.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/L1_0.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/L1_1.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/L1_2.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/R1_0.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/R1_1.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/R1_2.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/L2_0.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/L2_1.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/L2_2.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/L2_345.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/R2_0.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/R2_1.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/R2_2.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/R2_345.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/L3_0.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/L3_1.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/L3_2.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/L3_345.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/R3_0.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/R3_1.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/R3_2.stl" scale="1.35 1.35 1.35"/>
+        
+    <mesh file="v2/R3_345.stl" scale="1.35 1.35 1.35"/>
+        
+</mujoco>
