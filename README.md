@@ -7,7 +7,7 @@
 # Training
 - Activate Python Environment.
 - Run `python main.py mole_cricket` in the terminal.
-- The view training progress using Tensorboard in Visual Studio Code
+- To view training progress using Tensorboard in Visual Studio Code
     * In the search bar, select "Show and Run Commands"
     * Select "Python: Launch Tensorboard"
     * Select "Select another folder"
